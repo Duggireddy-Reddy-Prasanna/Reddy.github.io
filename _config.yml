@@ -1,5 +1,5 @@
-url: "arjunvarmar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "Reddy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/" # the subpath of your site, e.g. /blog
-title: "Arjun Varma R." # the name of your site, e.g. ACME Corp.
+title: "Duggireddy Reddy Prasanna." # the name of your site, e.g. ACME Corp.
 description: ""
 markdown: kramdown
