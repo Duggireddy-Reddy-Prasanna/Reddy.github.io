@@ -5,43 +5,12 @@ title: "Home"
 
 Hello, and welcome to my homepage! 
 
-I am a computational materials scientist, currently working with [Prof. Conrard Feugmo](https://uwaterloo.ca/chemistry/profile/cgtetsas) 
-at the [Feugmo research group](https://uwaterloo.ca/feugmo-research-group/) in the 
-department of Chemistry at University of Waterloo as a postdoc. Here, we are trying to modify 
-phase field crystal models by incorporating three-point correlation functions for complex 
-crystal structures in order to study defect interactions in complex concentrated alloys and 
-diffusion of Lithium ions through graphite electrodes in a Lithium-ion battery. In addition, 
-we are also trying to come up with a phase field model for corrosion of metallic systems in molten salts, 
-with material parameters informed by atomistic simulations.
+Welcome! I am an Environmental Chemist currently working with Dr. Gilboa Arye (https://scholar.google.com/citations?user=uYtqQ8IAAAAJ&hl=en&inst=2200037940676332253&oi=ao) in the Arye Research Group at the Department of Irrigation and Plant Environment, Ben-Gurion University of the Negev. Here, we explore the intricate interactions between amphiphilic molecules (both artificial and bio-based), pesticides, and irrigation water quality, focusing on their effects on wettability, water retention, and transport dynamics in porous media.
 
-Before coming to Canada, I completed my PhD from the department 
-of [Metallurgical Engineering and Materials Science](https://www.iitb.ac.in/mems/) 
-at Indian Institute of Technology Bombay, with [Prof. M P Gururajan](https://sites.google.com/site/gurusofficialhomepage/) 
-and [Prof. Prita Pant](https://www.iitb.ac.in/mems/en/prof-prita-pant). 
-My PhD thesis focused on the study of the effect of dislocations 
-on phase transformation phenomena using phase field simulations. 
-Essentially, we study the effect of elastic interaction 
-between dislocations and the solutes in a two-phase system leading 
-to interesting phase transformation phenomena. 
+Before moving to Israel, I earned my bachelor’s degree in agriculture from Rai Technology University, Bangalore, India. I later pursued both my master’s and PhD under the supervision of Dr. Gilboa Arye at Ben-Gurion University. My PhD research blended tree physiology and interfacial chemistry, investigating the dynamic surface tension of xylem sap at the air-water interface. Additionally, I contributed to projects studying the influence of irrigation water quality on soil physical and hydraulic properties.
 
-We have also used the phase field dislocation dynamics (PFDD) code developed to look at 
-the equilibrium stacking fault widths in different face-centered 
-cubic alloy systems. The generalised stacking fault energy is incorporated from 
-atomistic or density functional theory calculations performed by our collaborators 
-at [Prof. Vaishali Shah](https://www.researchgate.net/profile/Vaishali-Shah-3)'s group in University of Pune. 
-In addition, during the early years of my PhD, I was also part of an ab-initio study of the effect of 
-electron-phonon interactions on the total energy and hence, the stability of group-IV 
-semiconductor polymorphs, such as Si and C.
+My PhD research focused on the role of biosurfactants (rhamnolipids) in wettability, water retention, and transport properties of soilless growing media, particularly peat-based substrates. As part of my academic journey, I had the opportunity to present my work at the European Geosciences Union (EGU) Conference, where I gave a talk on my findings.
 
-As part of an Overseas visiting doctoral fellowship (SERB-OVDF 2019), I have also spent 
-six months at [GPM2-SIMaP](https://simap.grenoble-inp.fr/en/research/simap-directory-gpm2-group), 
-Universite Grenoble Alpes with [Prof. Marc Fivel's](https://simap.grenoble-inp.fr/fr/equipes/m-fivel-marc-1) research group. During this fellowship, I worked on an in-house 
-discrete dislocation dynamics simulation package called 
-[NUMODIS](https://www.researchgate.net/project/3D-Discrete-Dislocation-Dynamics-Simulations), 
-trying to develop an algorithm to model slip transfer. This was followed by another effort in 
-collaboration with the same team to implement fast Fourier transform based elastic stress computations 
-in NUMODIS (the Discrete-Continuous Method). This is an ongoing project.
-
-At this website, you will find details about my projects, 
-links to my publications, blog entries (in English and Malayalam (with translations)) and a brief CV. 
+On this website, you’ll find details about my research projects, links to my publications, conference presentation, blog entries, and a brief CV. 
+ 
 Thanks for visiting and hope you enjoy your time here!
